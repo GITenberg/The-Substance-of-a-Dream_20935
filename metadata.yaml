@@ -1,0 +1,31 @@
+_repo: The-Substance-of-a-Dream_20935
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bain, F. W. (Francis William)
+    alias: Bain, Francis William
+    birthdate: 1863
+    deathdate: 1940
+    gutenberg_agent_id: '3998'
+    url: http://www.gutenberg.org/2009/agents/3998
+    wikipedia: http://en.wikipedia.org/wiki/F._W._Bain
+description: I. On the banks of the Ganges.--II. The heart of a woman.--III. A story
+  without an end.
+gutenberg_issued: '2007-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcc 'PR'
+tableOfContents: Introduction -- On the banks of Ganges -- The heart of a woman --
+  A story without an end.
+title: The Substance of a Dream
+url: http://www.gutenberg.org/ebooks/20935
