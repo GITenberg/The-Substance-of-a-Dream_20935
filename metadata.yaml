@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Fantasy fiction'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: Introduction -- On the banks of Ganges -- The heart of a woman --
   A story without an end.
 title: The Substance of a Dream
